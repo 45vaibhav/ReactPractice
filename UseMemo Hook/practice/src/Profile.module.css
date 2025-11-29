@@ -1,0 +1,12 @@
+.prof_main{
+ height: 50%;
+ width: 70%;
+ background-color: skyblue;
+ border: 2px solid yellow;
+}
+.prof_sub{
+    height: 50%;
+    width: 60%;
+    background-color: brown;
+    border: 2px solid green;
+}
