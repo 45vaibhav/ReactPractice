@@ -4,9 +4,10 @@ import { CreateContext } from './CreateContext'
 function About() {
     console.log("in About");
     
-    const[count , handle]=useContext(CreateContext)
+    const[count , setCount]=useContext(CreateContext)
    function fun(){
-    console.log("in fun");
+ setCount(count=>count+100)
+    
     
    }
   return (
