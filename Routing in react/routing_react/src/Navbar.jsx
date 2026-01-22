@@ -1,5 +1,6 @@
 
 import {Link } from 'react-router-dom'
+// routing from navbar
 function Navbar() {
   return (
     <div style={{display:"flex", gap:"15px"}}>
