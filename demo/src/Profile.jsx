@@ -1,5 +1,6 @@
 import style from "./profile.module.css"
 import userData from "./user"
+// try to basic  
 function Profile({user}) {
          let data=[user]
     return (
