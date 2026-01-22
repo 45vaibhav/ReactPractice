@@ -1,5 +1,5 @@
 import React from 'react'
-
+// user design
 function userData({user}) {
   console.log(user)
   return (
