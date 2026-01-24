@@ -8,7 +8,7 @@ import User from './User'
 import UserDetials from './UserDetials'
 import NavBar from './NavBar'
 
-
+//App js
 function App() {
   const [count, setCount] = useState(0)
 

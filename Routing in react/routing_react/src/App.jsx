@@ -5,7 +5,7 @@ import Services from './Screens/Services'
 import Home from './Screens/home'
 import Navbar from './Navbar'
 
-
+// design of App
 function App() {
 
   return (
